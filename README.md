@@ -1,0 +1,1 @@
+# equal_sum_checker
